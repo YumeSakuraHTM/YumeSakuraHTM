@@ -3,7 +3,7 @@
 </p>
 <img align=right src="https://github-readme-stats.vercel.app/api?username=ShikiHTM&show_icons=true&theme=swift">
  
-# Shiki Hotome 🔭
+# Yume Sakura 🔭
 
 ![](https://komarev.com/ghpvc/?username=ShikiHTM&color=f68eff)
 
@@ -11,7 +11,7 @@
 ### Hi mates 👋
 
 > I'm last year highschool student, I have a passionate with algorithm and Blue Archive ⚡
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikiHTM&layout=compact">
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumeSakura&layout=compact">
 - Momoi my Beloved
 - Developer / Programmer
 - I'd to solve cp problems
